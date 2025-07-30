@@ -124,36 +124,20 @@ sequenceDiagram
 
 ---
 
-## 📆 Entrega
+## 📋 Entrega
 
-1. **Fork do Repositório**
+Para padronizar a entrega e facilitar a análise:
 
-   * Realize um fork deste repositório no GitHub.
+1. Faça um **fork deste repositório** para sua conta pessoal do GitHub.
+2. Crie uma **branch com seu nome em snake_case** (exemplo: `joao_silva_souza`).
+3. Suba sua solução utilizando **commits organizados e descritivos**.
+4. Após finalizar:
+   - Certifique-se de que o repositório esteja **público**
+   - Envie o link do seu fork para nossa equipe com:
+     - **Título:** `Entrega - joao_silva_souza`
+     - **Descrição:** Nome completo, data da entrega e quaisquer observações que julgar relevantes.
 
-2. **Criar uma Branch com seu Nome**
-
-   * O nome deve ser em letras minúsculas e separado por underscores `_`.
-   * Exemplo:
-
-     ```bash
-     git checkout -b joao_silva_souza
-     ```
-
-3. **Subir o Projeto**
-
-   ```bash
-   git add .
-   git commit -m "Entrega do desafio - João Silva Souza"
-   git push origin joao_silva_souza
-   ```
-
-4. **Abrir um Pull Request (PR)**
-
-   * No repositório original, abra um PR com:
-
-     * **Branch**: sua branch criada
-     * **PR Title**: `Entrega - joao_silva_souza`
-     * **PR Body**: Nome completo, data da entrega, observações adicionais (opcional)
+> ✅ **Dica**: Você pode incluir um arquivo `THOUGHTS.md` com decisões técnicas, ideias descartadas e sugestões de melhoria.
 
 ---
 
